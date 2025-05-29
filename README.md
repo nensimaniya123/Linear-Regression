@@ -36,7 +36,7 @@ Housing dataset (`Housing.csv`) containing features related to house prices.
 - **R² Score**: Proportion of variance explained by the model.
 
   
-- ## What You Will Learn
+- ## What i will Learn
 - How to implement regression models in Python
 - How to evaluate and interpret regression models
 - How to identify common pitfalls and assumptions
